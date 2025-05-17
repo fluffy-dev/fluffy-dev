@@ -49,6 +49,8 @@
 ### 🌟 Featured Projects :
 
 [![WatchBook](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=WatchBook)](https://github.com/fluffy-dev/WatchBook)
+[![DisposableSecrets](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=DisposableSecrets)](https://github.com/fluffy-dev/DisposableSecrets)
+[![DisposableSecrets](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=AudioHost)](https://github.com/fluffy-dev/AudioHost)
 
 - **Maybe in the feature 1**  
   [Project Description]  
