@@ -48,6 +48,8 @@
 
 ### 🌟 Featured Projects :
 
+[![WatchBook](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=WatchBook)](https://github.com/fluffy-dev/WatchBook)
+
 - **Maybe in the feature 1**  
   [Project Description]  
   🔗 [Project Link]
