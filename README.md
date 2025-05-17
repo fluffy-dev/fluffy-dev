@@ -50,19 +50,8 @@
 
 [![WatchBook](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=WatchBook)](https://github.com/fluffy-dev/WatchBook)
 [![DisposableSecrets](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=DisposableSecrets)](https://github.com/fluffy-dev/DisposableSecrets)
-[![DisposableSecrets](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=AudioHost)](https://github.com/fluffy-dev/AudioHost)
-
-- **Maybe in the feature 1**  
-  [Project Description]  
-  🔗 [Project Link]
-
-- **Maybe in the feature 2**  
-  [Project Description]  
-  🔗 [Project Link] 
-
-- **Maybe in the feature 3**  
-  [Project Description]  
-  🔗 [Your Project Link]
+[![AudioHost](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=AudioHost)](https://github.com/fluffy-dev/AudioHost)
+[![Profile](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=fluffy-dev)](https://github.com/fluffy-dev/fluffy-dev)
 
 ---
 
