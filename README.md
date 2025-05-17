@@ -1,11 +1,16 @@
-# Hi there 👋 
+<h2> Hi there 👋 <br> I'm Fluffy <br> Nice to meet you </h2>
 
 
-![](https://komarev.com/ghpvc/?username=fluffy-dev)
+![Profile-views](https://komarev.com/ghpvc/?username=fluffy-dev)
+![Askme](https://img.shields.io/badge/Ask%20me%20-%20Anything%20-blue)
+![Love](https://img.shields.io/badge/Love%20-%20Algorithms%20and%20API's%20-blue)
+
+
+
 
 ### 🛠️ Tech stack :
 😒 **Forced to use**:
-![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)![FastAPI](https://img.shields.io/badge/fastapi-109989?logo=FASTAPI&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 
 😍 **Born to use**:
@@ -20,7 +25,6 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?logo=FASTAPI&logoColor=white)
 ![Django REST](https://img.shields.io/badge/django%20rest-ff1709?logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white)
@@ -60,8 +64,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fluffy-dev&layout=compact&theme=transparent)
 
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=fluffy-dev&column=10&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=fluffy-dev&column=10&theme=dracula&no-frame=true"/>
 </a>
+
+
