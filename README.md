@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=fluffy-dev)
 
-### Tech stack 🛠️:
+### 🛠️ Tech stack :
 😒 **Forced to use**:
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
@@ -42,19 +42,24 @@
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white)
 ---
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects :
 
-- **[Your Project Name 1]**  
-  [Project Description, e.g., A full-stack app built with React and Django.]  
-  🔗 [Project Link] | ⭐ [Number of Stars]
+- **Maybe in the feature 1**  
+  [Project Description]  
+  🔗 [Project Link]
 
-- **[Your Project Name 2]**  
-  [Project Description, e.g., A Python script for automating workflows.]  
-  🔗 [Project Link] | ⭐ [Number of Stars]
+- **Maybe in the feature 2**  
+  [Project Description]  
+  🔗 [Project Link] 
 
-- **[Add Your Next Project Here]**  
-  [Your Project Description]  
+- **Maybe in the feature 3**  
+  [Project Description]  
   🔗 [Your Project Link]
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fluffy-dev&layout=compact&theme=transparent)
+
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
