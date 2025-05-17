@@ -61,11 +61,14 @@
   🔗 [Your Project Link]
 
 ---
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=fluffy-dev&count_private=true&include_all_commits=false&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluffy-dev&layout=compact&theme=transparent" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fluffy-dev&layout=compact&theme=transparent)
+---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=fluffy-dev&column=10&theme=dracula&no-frame=true"/>
 </a>
-
 
