@@ -61,6 +61,8 @@
   🔗 [Your Project Link]
 
 ---
+
+### 📊 Some stats:
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=fluffy-dev&count_private=true&include_all_commits=false&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluffy-dev&layout=compact&theme=transparent" />
@@ -72,3 +74,8 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=fluffy-dev&column=10&theme=dracula&no-frame=true"/>
 </a>
 
+---
+
+### 📞 Some contacts:
+
+![google.com](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
