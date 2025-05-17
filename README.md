@@ -48,10 +48,10 @@
 
 ### 🌟 Featured Projects :
 
-[![WatchBook](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=WatchBook)](https://github.com/fluffy-dev/WatchBook)
-[![DisposableSecrets](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=DisposableSecrets)](https://github.com/fluffy-dev/DisposableSecrets)
-[![AudioHost](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=AudioHost)](https://github.com/fluffy-dev/AudioHost)
-[![Profile](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=fluffy-dev)](https://github.com/fluffy-dev/fluffy-dev)
+[![WatchBook](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=WatchBook&theme=transparent)](https://github.com/fluffy-dev/WatchBook)
+[![DisposableSecrets](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=DisposableSecrets&layout=compact&theme=transparent)](https://github.com/fluffy-dev/DisposableSecrets)
+[![AudioHost](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=AudioHost&layout=compact&theme=transparent)](https://github.com/fluffy-dev/AudioHost)
+[![Profile](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=fluffy-dev&layout=compact&theme=transparent)](https://github.com/fluffy-dev/fluffy-dev)
 
 ---
 
