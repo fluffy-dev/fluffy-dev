@@ -72,4 +72,6 @@ Badges:
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fluffy-dev&theme=onedark)](https://github.com/fluffy-dev/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fluffy-dev&theme=flat)](https://github.com/fluffy-dev/github-profile-trophy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluffy-dev&layout=compact&theme=transparent)
