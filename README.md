@@ -8,7 +8,6 @@ Badges:
 <img src="BadgeURLHere"/>
 <img src="BadgeURLHere"/>
 <img src="BadgeURLHere"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluffy-dev&theme=github_dark"/>
 
 [//]: # (<img src="https://simpleicons.org/icons/thinkpad.svg" bgcolor="green" />)
 <img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
