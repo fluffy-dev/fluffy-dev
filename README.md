@@ -49,9 +49,9 @@
 ### 🌟 Featured Projects :
 
 [![WatchBook](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=WatchBook&theme=transparent)](https://github.com/fluffy-dev/WatchBook)
-[![DisposableSecrets](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=DisposableSecrets&layout=compact&theme=transparent)](https://github.com/fluffy-dev/DisposableSecrets)
-[![AudioHost](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=AudioHost&layout=compact&theme=transparent)](https://github.com/fluffy-dev/AudioHost)
-[![Profile](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=fluffy-dev&layout=compact&theme=transparent)](https://github.com/fluffy-dev/fluffy-dev)
+[![TelegramToDoBot](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=TelegramToDoBot&layout=compact&theme=transparent)](https://github.com/fluffy-dev/TelegramToDoBot)
+[![The-Loom](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=The-Loom&layout=compact&theme=transparent)](https://github.com/fluffy-dev/The-Loom)
+[![WildberriesVisualization](https://github-readme-stats.vercel.app/api/pin/?username=fluffy-dev&repo=WildberriesVisualization&layout=compact&theme=transparent)](https://github.com/fluffy-dev/WildberriesVisualization)
 
 ---
 
